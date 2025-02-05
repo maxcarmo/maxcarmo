@@ -2,8 +2,8 @@
 
 Areas of Interest:
 
-Development of artificial intelligence-based applications.
-Studies on security in computer networks.
+- Development of artificial intelligence-based applications.
+- Studies on security in computer networks.
 
 💡 Always open to collaborations and new ideas!
 
