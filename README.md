@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Areas of Interest:
+
+Development of artificial intelligence-based applications.
+Studies on security in computer networks.
+
+💡 Always open to collaborations and new ideas!
+
 <!--
 **maxcarmo/maxcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
